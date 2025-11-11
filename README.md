@@ -1,7 +1,7 @@
 # Portfolio Clustering & Diversification Analysis
 
 This project explores **stock diversification** using unsupervised learning (K-Means clustering) on S&P 500 stock returns.  
-It then creates and compares three simple portfolios:
+It creates and compares three simple portfolios:
 
 1. **Cluster-based portfolio** - one stock selected from each cluster (diversified by behavior)  
 2. **Market portfolio (using proxy stocks from the S&P500)** - equal-weighted portfolio using all stocks in the dataset  
@@ -27,7 +27,7 @@ It then creates and compares three simple portfolios:
 ---
 
 ## Results Snapshot
-| Metric | Cluster | ALL EW | Random |
+| Metric | Cluster | SP500 Proxy | Random |
 |:--|:--:|:--:|:--:|
 | CAGR | ~20% | 18% | 16% |
 | Volatility | 18% | 19% | 26% |

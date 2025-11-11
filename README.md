@@ -29,9 +29,9 @@ It creates and compares three simple portfolios:
 ## Results Snapshot
 | Metric | Cluster | SP500 Proxy | Random |
 |:--|:--:|:--:|:--:|
-| CAGR | ~20% | 18% | 16% |
+| CAGR | 20% | 18% | 16% |
 | Volatility | 18% | 19% | 26% |
 | Sharpe | 1.1 | 1.0 | 0.7 |
-| Max Drawdown | −19% | -23% | 35% |
+| Max Drawdown | -19% | -23% | 35% |
 
 

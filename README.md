@@ -19,8 +19,8 @@ It creates and compares three simple portfolios:
    - K-Means with `best_k` chosen via silhouette analysis.  
 4. **Portfolio construction**
    - **Cluster portfolio**: pick one from each cluster.  
-   - **Random portfolio**: equal-weight N random stocks.  
-   - **Market (ALL)**: equal-weight all stocks in the dataset.
+   - **Random portfolio**: equal-weight random stocks.  
+   - **Market (S&P500 Proxy)**: equal-weight all stocks in the dataset.
 5. **Performance evaluation**
    - CAGR, volatility, Sharpe ratio, and maximum drawdown.
 
